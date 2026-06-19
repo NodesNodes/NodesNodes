@@ -1,16 +1,41 @@
-## Hi there 👋
+# nodes_nodes
 
-<!--
-**NodesNodes/NodesNodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Bittensor infrastructure · subnet research · validators/miners · Python/Linux automation
 
-Here are some ideas to get you started:
+I work on decentralized AI infrastructure, subnet analytics, validators, miners, monitoring tools and Linux-based automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Bittensor validators and miners
+- Subnet monitoring, scoring and analytics
+- Python backend tools and FastAPI dashboards
+- Linux / Ubuntu server automation
+- Cloud and bare-metal infrastructure
+- GRE/network tunneling, traffic generators and long-running processes
+- Technical security research and public-data analysis
+
+## Current work
+
+- Building lightweight tools for subnet tracking and validator/miner monitoring
+- Researching scoring behavior, emissions and leaderboard dynamics
+- Automating infrastructure across GCP, Hetzner, Verda and local servers
+- Improving dashboards, Telegram alerts and operational visibility
+
+## Stack
+
+`Python` · `FastAPI` · `Linux` · `Ubuntu` · `Bash` · `Docker` · `PM2`  
+`GCP` · `Hetzner` · `Verda` · `Terraform` · `PostgreSQL` · `Grafana`  
+`Bittensor` · `Subtensor` · `Validators` · `Miners` · `Monitoring`
+
+## Infrastructure mindset
+
+- Keep systems observable
+- Prefer simple services over fragile complexity
+- Automate repeated operations
+- Measure before optimizing
+- Treat public data as a research surface
+
+## Contact
+
+- GitHub: [@NodesNodes](https://github.com/NodesNodes)
+- Email: nodes_nodes@yahoo.com
