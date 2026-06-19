@@ -18,7 +18,6 @@ I work on decentralized AI infrastructure, subnet analytics, validators, miners,
 
 - Building lightweight tools for subnet tracking and validator/miner monitoring
 - Researching scoring behavior, emissions and leaderboard dynamics
-- Automating infrastructure across GCP, Hetzner, Verda and local servers
 - Improving dashboards, Telegram alerts and operational visibility
 
 ## Stack
@@ -38,4 +37,3 @@ I work on decentralized AI infrastructure, subnet analytics, validators, miners,
 ## Contact
 
 - GitHub: [@NodesNodes](https://github.com/NodesNodes)
-- Email: nodes_nodes@yahoo.com
