@@ -23,7 +23,7 @@ I work on decentralized AI infrastructure, subnet analytics, validators, miners,
 ## Stack
 
 `Python` · `FastAPI` · `Linux` · `Ubuntu` · `Bash` · `Docker` · `PM2`  
-`GCP` · `Hetzner` · `Verda` · `Terraform` · `PostgreSQL` · `Grafana`  
+`Terraform` · `PostgreSQL` · `Grafana`  
 `Bittensor` · `Subtensor` · `Validators` · `Miners` · `Monitoring`
 
 ## Infrastructure mindset
