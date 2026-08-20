@@ -36,6 +36,10 @@ I work on decentralized AI infrastructure, subnet analytics, validators, miners,
 - Measure before optimizing
 - Treat public data as a research surface
 
+## Hosting
+
+Need a box to run any of this? [Linode referral link](https://www.linode.com/lp/refer/?r=fffc386247e18142bd23cdb0fea1f2a5bc50b3bf) — new accounts get starter credit.
+
 ## Contact
 
 - GitHub: [@NodesNodes](https://github.com/NodesNodes)
