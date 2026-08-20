@@ -1,6 +1,8 @@
-# nodes_nodes
+<div align="center">
 
-> Bittensor infrastructure · subnet research · validators/miners · Python/Linux automation
+<img src="./assets/banner.svg" width="100%" alt="nodes_nodes — Bittensor infrastructure, subnet research, validators and miners">
+
+</div>
 
 I work on decentralized AI infrastructure, subnet analytics, validators, miners, monitoring tools and Linux-based automation.
 
