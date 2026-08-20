@@ -42,10 +42,15 @@ Workloads run across several providers — GPU compute, always-on bare metal and
 utility nodes have different requirements, and spreading them out means no single
 provider outage takes everything down.
 
-- **[Linode](https://www.linode.com/lp/refer/?r=fffc386247e18142bd23cdb0fea1f2a5bc50b3bf)** — long-running services, dashboards and monitoring bots.
-- **[Hetzner](https://www.hetzner.com/)** — dedicated servers and VPS for 24/7 miner and validator processes; best price-to-performance in the fleet.
+**The three I actually rely on:**
+
+- **[Hetzner](https://www.hetzner.com/)** — dedicated servers and VPS for 24/7 miner and validator processes. Best price-to-performance in the fleet, and the boxes just stay up.
+- **[Linode](https://www.linode.com/lp/refer/?r=fffc386247e18142bd23cdb0fea1f2a5bc50b3bf)** — long-running services, dashboards and monitoring bots. Predictable, boring in the best way.
+- **[Verda](https://verda.com/)** (formerly DataCrunch) — Nordic GPU cloud for H100/H200 inference and model workloads. Real GPUs on demand, without hyperscaler pricing.
+
+**Also in rotation:**
+
 - **[Vultr](https://www.vultr.com/?ref=9918845)** — on-demand instances when a node is needed in a specific region, fast.
-- **[Verda](https://verda.com/)** (formerly DataCrunch) — Nordic GPU cloud for H100/H200 inference and model workloads.
 - **[OVHcloud](https://www.ovhcloud.com/)** — bare metal and DDoS-protected endpoints.
 
 Need a box to run any of this? The Linode and Vultr links above are referral links —
