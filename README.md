@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="nodes_nodes — Bittensor infrastructure, subnet research, validators and miners">
+<img src="./assets/banner.svg" width="100%" alt="nodes_nodes — a living computational cavern">
 
 </div>
 
